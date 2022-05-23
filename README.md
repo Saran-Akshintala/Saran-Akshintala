@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saran-Akshintala
 - 👀 I’m interested in optimizing and automating our day to day activites with the help of various tools and technologies. 
-- 🎥 I have turned into a ▶ YouTuber (YouTube.com/RishiKushi) on 22 Aug 2020, to address the challenges faced by both parents and students on online education, 
+- 🎥 I have turned into a ▶ YouTuber (https://YouTube.com/RishiKushi) on 22 Aug 2020, to address the challenges faced by both parents and students on online education, 
       and also to educate them on digital wellbeing, parental controls, latest technologies, tips and tricks, online safety rules and guidlines.  
 - 📸 During 2020-2021, I have learned Google Actions, Openshot, GIMP, Adobe Premier Pro, Creating Android TV Apps using Tasker and app factory
      in addition to other life skills such as Soldering, TV repair, assembling & disassembling a dishwasher and Decorative wall painting.
