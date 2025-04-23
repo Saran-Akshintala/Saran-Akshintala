@@ -10,6 +10,4 @@
 
 💞️ I'm interested in collaborating on any automated ideas that bring significant value to our daily lives.
 
-👩‍💻 My dream project is to develop an artificially intelligent CCTV camera that can alert emergency systems in case of unexpected events like accidents or crimes.
-
 📫 You can reach me at Saran.Akshintala@outlook.com.
