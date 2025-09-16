@@ -6,8 +6,9 @@
 
 📸 From 2020 to 2022, I've acquired skills in Google Actions, Openshot, GIMP, Adobe Premiere Pro, creating Android TV apps using Tasker and app factory, as well as other life skills such as soldering, TV repair, dishwasher assembly and disassembly, and decorative wall painting.
 
-🌱 Currently, I'm exploring Arduino Uno programming, Sonoff IoT Gang3 Switch reset and Tasmota firmware flashing, Davinci Resolve, and Flutter. From 2024, started exploring Machine Learning Algorithms and Artificial Intelligence.
+I have explored Arduino Uno programming, Sonoff IoT Gang3 Switch reset and Tasmota firmware flashing, Davinci Resolve, and Flutter. 
+🌱 Currently, From 2024, started exploring Data Science, Machine Learning Algorithms and Artificial Intelligence.
 
-💞️ I'm interested in collaborating on any automated ideas that bring significant value to our daily lives.
+💞️ I'm interested in collaborating on any ideas that bring significant value to our daily lives.
 
 📫 You can reach me at Saran.Akshintala@outlook.com.
