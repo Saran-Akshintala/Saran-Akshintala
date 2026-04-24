@@ -1,14 +1,93 @@
-👋 Hello, I'm @Saran-Akshintala!
+# 👋 Hello, I'm Saran Akshintala
 
-👀 I'm passionate about optimizing and automating our daily activities using various tools and technologies.
+## 🚀 Enterprise Technologist Transitioning into AI Solution Architecture
 
-🎥 From 22 Aug 2020 to 25 Jan 2022, I've been a ▶ YouTuber (https://YouTube.com/RishiKushi). My channel aimed to address the challenges faced by parents and students in online education. I have also provided education on digital well-being, parental controls, the latest technologies, tips and tricks, as well as online safety rules and guidelines.
+Experienced IT professional with a strong background in **Microsoft .NET, SQL Server, enterprise systems, and delivery execution**, now focused on building expertise in **Artificial Intelligence, Machine Learning, Generative AI, Cloud AI, and Solution Architecture**.
 
-📸 From 2020 to 2022, I've acquired skills in Google Actions, Openshot, GIMP, Adobe Premiere Pro, creating Android TV apps using Tasker and app factory, as well as other life skills such as soldering, TV repair, dishwasher assembly and disassembly, and decorative wall painting.
+My current mission is to evolve into a high-impact **AI Solution Architect** through continuous learning, real-world projects, and public execution.
 
-I have explored Arduino Uno programming, Sonoff IoT Gang3 Switch reset and Tasmota firmware flashing, Davinci Resolve, and Flutter. 
-🌱 Currently, From 2024, started exploring Data Science, Machine Learning Algorithms and Artificial Intelligence.
+---
 
-💞️ I'm interested in collaborating on any ideas that bring significant value to our daily lives.
+## 🎯 Current Focus
 
-📫 You can reach me at Saran.Akshintala@outlook.com.
+- 🤖 Generative AI & LLM Applications  
+- 🧠 Machine Learning & Statistical Foundations  
+- ☁️ Azure AI / AWS Bedrock / Multi-Cloud AI  
+- 🏗️ AI Solution Architecture & System Design  
+- 📊 Data Platforms, SQL / NoSQL, MLOps  
+- 🔐 Responsible AI, Security & Governance  
+- 💼 Career Growth & Technical Leadership
+
+---
+
+## 🏆 Highlights
+
+- ☁️ Microsoft AI-102 Certified  
+- 💻 GitHub Copilot Certified  
+- 📚 Completed ISLP – Statistical Learning Foundations  
+- 🏗️ Completed Machine Learning Design Patterns  
+- 🏆 Built AI Reconciliation Platform – TCS AI Hackathon  
+- 💊 Delivered Paid Pharmacy Demand Forecasting Platform  
+- ☁️ Multi-Cloud AI Foundations – AWS Bedrock, GCP & Serverless
+
+---
+
+## 📂 Featured Mission
+
+### ⭐ AI Solution Architect Mission 2026
+
+A public journey to become an AI Solution Architect through:
+
+- Real projects  
+- Architecture practice  
+- Cloud AI systems  
+- Portfolio building  
+- Continuous improvement
+
+👉 Explore my repositories to follow the journey.
+
+---
+
+## 🛠️ Additional Experience & Curiosity
+
+Beyond traditional IT, I enjoy learning practical technologies and solving real-life problems through creativity and experimentation.
+
+Past explorations include:
+
+- 🎥 Educational YouTube content creation  
+- 📹 Video editing (OpenShot / Premiere Pro / DaVinci Resolve)  
+- 🖼️ Graphic tools (GIMP)  
+- 🌐 Automation tools & no-code systems  
+- 🔌 IoT / Arduino / firmware experiments  
+- 📱 App experimentation & prototyping
+
+---
+
+## 🌱 Philosophy
+
+> Stay curious.  
+> Keep building.  
+> Learn deeply.  
+> Create value.
+
+---
+
+## 🤝 Open to Collaborate On
+
+- AI / Automation ideas  
+- Practical productivity tools  
+- Enterprise AI use cases  
+- Data / ML prototypes  
+- Useful real-world applications
+
+---
+
+## 📫 Contact
+
+📧 **Saran.Akshintala@outlook.com**
+
+---
+
+## ⭐ Status
+
+**Building the future, one project at a time.**
