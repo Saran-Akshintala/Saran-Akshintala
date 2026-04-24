@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="images/banner.png" alt="AI Solution Architect Banner" width="100%">
+</p>
 # 👋 Hello, I'm Saran Akshintala
 
 ## 🚀 Enterprise Technologist Transitioning into AI Solution Architecture
