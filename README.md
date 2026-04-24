@@ -6,7 +6,7 @@ Experienced IT professional with a strong background in **Microsoft .NET, SQL Se
 
 My current mission is to evolve into a high-impact **AI Solution Architect** through continuous learning, real-world projects, and public execution.
 
-## ⭐ AI Solution Architect Mission Dashboard
+## ⭐ AI Solution Architect Mission 2026 Dashboard
 
 Track my public progress toward becoming an AI Solution Architect through projects, certifications, architecture practice, and continuous learning.
 
